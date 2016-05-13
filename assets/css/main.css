@@ -340,6 +340,8 @@ p.main_subtitle {
     .gong_banner_logo {
         display: block;
         margin: auto;
+        height: 35px;
+        width: 35px;
     }
 
     .gong_banner_text {
